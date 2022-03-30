@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/settings"
+    android:title="SETTINGS"
+    >
+</item>
+    <item
+        android:id="@+id/abouts"
+        android:title="ABOUT"
+        >
+    </item>
+    <item
+        android:id="@+id/exit"
+        android:title="EXIT">
+
+    </item>
+
+</menu>
